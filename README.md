@@ -96,10 +96,6 @@ ruby methods.rb
 - Twitter: [@zunairkhan811](https://twitter.com/zunairkhan811)
 - LinkedIn: [mzunairkhan](https://www.linkedin.com/in/mzunairkhan)
 
-## 👥 Authors <a name="ndonyi"></a>
-- GitHub: [@citec-47](https://github.com/citec-47)
-- Twitter: [@ndonyi4](https://twitter.com/Ndonyi4)
-- LinkedIn: [@ndyoni](https://www.linkedin.com/in/ndonyi-maurice-b5b49b22b/)
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
