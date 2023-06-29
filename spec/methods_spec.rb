@@ -23,3 +23,9 @@ context 'Testing the factorial method' do
         expect(@methods.factorial(10)). to eql 3628800
     end
 end
+
+context 'Testing the reverse method' do
+    it 'reverse the given word' do
+        expect(@methods.reverse('world')).to eql 'dlrow'
+    end
+end
