@@ -11,8 +11,7 @@ describe Methods do
         end
     
         it 'return error when when input number is negative' do
-            expect(@methods.factorial(-2)).to eql 'Error! Kindly input number greater than or
-            equal to zero'
+            expect(@methods.factorial(-2)).to eql 'Error! Kindly input number greater than or equal to zero'
         end
     
         it 'return the factorial of a number greater than zero' do
