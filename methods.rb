@@ -6,4 +6,8 @@ class Methods
         [1..number].reduce(:*)
     end
 
+    def reverse(string)
+        string.reverse
+    end
+
 end
